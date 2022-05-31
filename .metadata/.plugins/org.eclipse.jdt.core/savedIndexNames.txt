@@ -1,19 +1,2 @@
 INDEX VERSION 1.131+G:\Advanced Training\.metadata\.plugins\org.eclipse.jdt.core
-1870297324.index
-3618138625.index
-2222078989.index
-2317672550.index
-66061983.index
-3006638139.index
-3691409638.index
-3681935424.index
-2960061121.index
-1694639543.index
-85613126.index
-2992350048.index
-1349126796.index
-535110141.index
-1501051489.index
-2098988568.index
-2783227769.index
-1459410876.index
+101253277.index
